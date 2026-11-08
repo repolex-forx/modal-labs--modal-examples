@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/modal-examples/commit/a590d8b608e526771378dc1bbf0dcb8b03ca0309",
       "git:hexsha": "a590d8b608e526771378dc1bbf0dcb8b03ca0309",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
